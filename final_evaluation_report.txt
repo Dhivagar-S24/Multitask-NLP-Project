@@ -1,0 +1,18 @@
+MULTITASK NLP FINAL EVALUATION REPORT
+==================================================
+
+NEXT-WORD PREDICTION
+Top-1 Accuracy: 20.00%
+Top-5 Accuracy: 40.00%
+
+PERPLEXITY
+Test Loss: 3.0578
+Perplexity: 21.2812
+
+TRANSLATION BLEU SCORES
+EN → TA: 44.05
+EN → TE: 60.33
+TA → EN: 68.98
+TE → EN: 88.30
+TA → TE: 53.83
+TE → TA: 49.93
